@@ -3,7 +3,7 @@
   "sid": "eDj92yxUtwYaj-K52UtsoD2tDWCAK62Z",
   "sig": "APDaceKunTDlPWdw0Solb6PiqeU",
   "interfaceId": 1345234,
-  "javaDirPath": "/Users/wilson/develop/workspace-aux/my/kings-rap2-test/src/main/java/com/kings/test/model",
+  "javaDirPath": "/Users/wilson/develop/workspace-aux/my/kings-rap2-test/src/main/java/com/kings/rap2/test/model",
   "requestJavaClassname": "MyQueryVo",
   "responseJavaClassname": "MyBankCard",
   "bodyOption": "FORM_DATA",

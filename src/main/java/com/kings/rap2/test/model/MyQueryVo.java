@@ -1,4 +1,4 @@
-package com.kings.test.model;
+package com.kings.rap2.test.model;
 
 import lombok.Data;
 

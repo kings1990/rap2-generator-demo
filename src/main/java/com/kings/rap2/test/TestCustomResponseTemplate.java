@@ -1,4 +1,4 @@
-package com.kings.test;
+package com.kings.rap2.test;
 
 import com.kings.rap.config.ParseConfig;
 import com.kings.rap.core.KingsRap2;

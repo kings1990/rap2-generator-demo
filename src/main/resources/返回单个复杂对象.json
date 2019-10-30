@@ -1,0 +1,16 @@
+{
+  "domainAndPortUrl": "http://rap2api.taobao.org",
+  "sid": "eDj92yxUtwYaj-K52UtsoD2tDWCAK62Z",
+  "sig": "APDaceKunTDlPWdw0Solb6PiqeU",
+  "interfaceId": 1349784,
+  "packageName": "com.kings.rap2.test.model",
+  "requestJavaClassname": "KingsQueryVo",
+  "responseJavaClassname": "KingsVo",
+  "bodyOption": "FORM_DATA",
+  "requestParamsType": "QUERY_PARAMS",
+  "responseResultType": "Object",
+  "responseResultData": {
+    "responseResultDataType": "Object",
+    "description": ""
+  }
+}

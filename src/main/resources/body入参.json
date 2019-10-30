@@ -1,0 +1,16 @@
+{
+  "domainAndPortUrl": "http://rap2api.taobao.org",
+  "sid": "eDj92yxUtwYaj-K52UtsoD2tDWCAK62Z",
+  "sig": "APDaceKunTDlPWdw0Solb6PiqeU",
+  "interfaceId": 1349709,
+  "packageName": "com.kings.rap2.test.model",
+  "requestJavaClassname": "KingsBankCard",
+  "responseJavaClassname": "",
+  "bodyOption": "FORM_DATA",
+  "requestParamsType": "BODY_PARAMS",
+  "responseResultType": "Number",
+  "responseResultData": {
+    "responseResultDataType": "Number",
+    "description": "[1-保存成功 0-保存失败]"
+  }
+}

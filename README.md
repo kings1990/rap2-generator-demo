@@ -241,4 +241,11 @@ eclipse用户参考此文[https://blog.csdn.net/wangxiaotongfan/article/details/
 基于[淘宝rap2](http://rap2.taobao.org/)的自动化导入,请看演示.mp4
 
 ## 6.demo小程序
-[https://github.com/kings1990/kings-rap2-test](https://github.com/kings1990/kings-rap2-test)
+测试demo地址 [https://github.com/kings1990/kings-rap2-test](https://github.com/kings1990/kings-rap2-test)
+
+```
+登录http://rap2.taobao.org
+账号:rap2-generator@qq.com
+密码:123456
+```
+

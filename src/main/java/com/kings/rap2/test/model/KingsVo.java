@@ -1,8 +1,6 @@
 package com.kings.rap2.test.model;
 
-import com.kings.rap.demomodel.KingsBankCard;
-import com.kings.rap.demomodel.KingsHobby;
-import com.kings.rap.demomodel.KingsWeChat;
+
 import lombok.Data;
 
 import java.util.Date;

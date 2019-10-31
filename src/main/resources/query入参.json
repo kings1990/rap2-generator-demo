@@ -1,7 +1,9 @@
 {
-  "domainAndPortUrl": "http://rap2api.taobao.org",
+  "delosUrl": "http://rap2api.taobao.org",
+  "doloresUrl": "http://rap2.taobao.org",
   "sid": "eDj92yxUtwYaj-K52UtsoD2tDWCAK62Z",
   "sig": "APDaceKunTDlPWdw0Solb6PiqeU",
+  "repositoryId":235211,
   "interfaceId": 1349710,
   "packageName": "com.kings.rap2.test.model",
   "requestJavaClassname": "KingsQueryVo",

@@ -24,7 +24,7 @@ public class KingsBankCard {
 ## 2.使用
 
 ### 2.0 maven引入
-最新版本([search.maven.org](search.maven.org)搜索坐标kings-rap2-generator)
+最新版本([search.maven.org](https://search.maven.org/search?q=kings-rap2-generator)搜索坐标kings-rap2-generator)
 ```
 <dependency>
     <groupId>io.github.kings1990</groupId>

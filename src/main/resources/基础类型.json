@@ -1,8 +1,8 @@
 {
   "delosUrl": "http://rap2api.taobao.org",
   "doloresUrl": "http://rap2.taobao.org",
-  "sid": "eDj92yxUtwYaj-K52UtsoD2tDWCAK62Z",
-  "sig": "APDaceKunTDlPWdw0Solb6PiqeU",
+  "sid": "lvfoYyBsepZ3Ziq2IsvAlIvtCNYz3IkH",
+  "sig": "gHlWKnOcegxAVsYQG7i6rVkk4iI",
   "repositoryId":235211,
   "interfaceId": 1349712,
   "packageName": "com.kings.rap2.test.model",

@@ -4,16 +4,15 @@
   "sid": "lvfoYyBsepZ3Ziq2IsvAlIvtCNYz3IkH",
   "sig": "gHlWKnOcegxAVsYQG7i6rVkk4iI",
   "repositoryId":235211,
-  "interfaceId": 1349715,
+  "interfaceId": 1352346,
   "packageName": "com.kings.rap2.test.model",
-  "requestJavaClassname": "KingsQueryVo",
-  "responseJavaClassname": "KingsHobby",
+  "requestJavaClassname": "TimeQueryVo",
+  "responseJavaClassname": "DateVo",
   "bodyOption": "FORM_DATA",
   "requestParamsType": "QUERY_PARAMS",
-  "responseResultType": "Array",
+  "responseResultType": "Object",
   "responseResultData": {
     "responseResultDataType": "Object",
     "description": ""
-  },
-  "responseConfigPath": "my-responseTemplate.json"
+  }
 }

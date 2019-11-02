@@ -1,4 +1,4 @@
-package com.kings.rap2.test;
+package io.github.kings1990.rap2.generator.test;
 
 
 import com.kings.rap.config.ParseConfig;

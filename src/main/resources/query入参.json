@@ -5,7 +5,7 @@
   "sig": "gHlWKnOcegxAVsYQG7i6rVkk4iI",
   "repositoryId":235211,
   "interfaceId": 1349710,
-  "packageName": "com.kings.rap2.test.model",
+  "packageName": "io.github.kings1990.rap2.generator.test.model",
   "requestJavaClassname": "KingsQueryVo",
   "responseJavaClassname": "KingsBankCard",
   "bodyOption": "FORM_DATA",

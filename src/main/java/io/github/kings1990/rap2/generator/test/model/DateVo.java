@@ -1,4 +1,4 @@
-package com.kings.rap2.test.model;
+package io.github.kings1990.rap2.generator.test.model;
 
 import com.alibaba.fastjson.annotation.JSONField;
 import com.fasterxml.jackson.annotation.JsonFormat;

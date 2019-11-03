@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.kings</groupId>
-    <artifactId>kings-rap2-generator-demo</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <artifactId>rap2-generator-demo</artifactId>
+    <version>1.0.4-RELEASE</version>
 
     <dependencies>
         <dependency>
@@ -28,7 +28,7 @@
         <dependency>
             <groupId>io.github.kings1990</groupId>
             <artifactId>rap2-generator</artifactId>
-            <version>1.0.3-RELEASE</version>
+            <version>${project.version}</version>
         </dependency>
     </dependencies>
     

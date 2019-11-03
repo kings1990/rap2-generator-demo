@@ -10,7 +10,7 @@ public class TestRap2Generator {
 
     @Test
     public void test4BodyParam() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("body入参.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/body入参.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
@@ -18,7 +18,7 @@ public class TestRap2Generator {
 
     @Test
     public void test4QueryParam() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("query入参.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/query入参.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
@@ -26,7 +26,7 @@ public class TestRap2Generator {
 
     @Test
     public void test4ModelWithAuthor() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("携带类名注释.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/携带类名注释.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
@@ -34,7 +34,7 @@ public class TestRap2Generator {
 
     @Test
     public void test4BasecTypeResponse() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("基础类型.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/基础类型.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
@@ -42,7 +42,7 @@ public class TestRap2Generator {
 
     @Test
     public void testPagination() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("分页.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/分页.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
@@ -50,7 +50,7 @@ public class TestRap2Generator {
 
     @Test
     public void testComplexObject() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("返回单个复杂对象.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/返回单个复杂对象.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
@@ -58,7 +58,7 @@ public class TestRap2Generator {
 
     @Test
     public void testCustomResponseTemplate() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("自定义响应模板.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/自定义响应模板.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
@@ -66,7 +66,7 @@ public class TestRap2Generator {
 
     @Test
     public void testDayPattern() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("时间类型支持.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/时间类型支持.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();

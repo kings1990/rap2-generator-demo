@@ -1,0 +1,13 @@
+{
+  "interfaceId": 1352789,
+  "requestJavaClassname": "UserQuery",
+  "responseJavaClassname": "User",
+  "bodyOption": "FORM_DATA",
+  "requestParamsType": "QUERY_PARAMS",
+  "responseResultType": "Object",
+  "responseResultData": {
+    "responseResultDataType": "Object",
+    "description": ""
+  },
+  "moduleConfigPath": "user/userCommon.json"
+}

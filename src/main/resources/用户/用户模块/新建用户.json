@@ -1,6 +1,6 @@
 {
-  "interfaceId": 1352831,
-  "requestJavaClassname": "Order",
+  "interfaceId": 1352807,
+  "requestJavaClassname": "User",
   "responseJavaClassname": "",
   "bodyOption": "FORM_DATA",
   "requestParamsType": "BODY_PARAMS",
@@ -9,5 +9,5 @@
     "responseResultDataType": "Number",
     "description": "[1-新建成功 0-新建失败]"
   },
-  "moduleConfigPath": "order/orderCommon.json"
+  "moduleConfigPath": "/用户/用户模块/userCommon.json"
 }

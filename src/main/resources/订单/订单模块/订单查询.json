@@ -1,7 +1,7 @@
 {
-  "interfaceId": 1352789,
-  "requestJavaClassname": "UserQuery",
-  "responseJavaClassname": "User",
+  "interfaceId": 1352791,
+  "requestJavaClassname": "OrderQuery",
+  "responseJavaClassname": "Order",
   "bodyOption": "FORM_DATA",
   "requestParamsType": "QUERY_PARAMS",
   "responseResultType": "Object",
@@ -9,5 +9,5 @@
     "responseResultDataType": "Object",
     "description": ""
   },
-  "moduleConfigPath": "user/userCommon.json"
+  "moduleConfigPath": "/订单/订单模块/orderCommon.json"
 }

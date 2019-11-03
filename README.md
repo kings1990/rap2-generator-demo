@@ -169,7 +169,7 @@ body参数格式,支持4种格式:
     "responseResultDataType": "Number",
     "description": "[1-新建成功 0-新建失败]"
   },
-  "moduleConfigPath": "order/orderCommon.json"
+  "moduleConfigPath": "/订单/订单模块/orderCommon.json"
 }
 ```
 

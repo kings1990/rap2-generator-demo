@@ -8,7 +8,7 @@ import org.junit.Test;
 public class OrderModuleRap2Generator {
     @Test
     public void queryOrder() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("order/订单查询.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("order/订单->订单模块>订单查询.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
@@ -16,7 +16,7 @@ public class OrderModuleRap2Generator {
 
     @Test
     public void saveOrder() throws Exception {
-        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("order/新建订单.json");
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("order/订单->订单模块>新建订单.json");
         Rap2Generator rap2Generator = new Rap2Generator();
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();

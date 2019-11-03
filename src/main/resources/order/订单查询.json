@@ -1,0 +1,13 @@
+{
+  "interfaceId": 1352791,
+  "requestJavaClassname": "OrderQuery",
+  "responseJavaClassname": "Order",
+  "bodyOption": "FORM_DATA",
+  "requestParamsType": "QUERY_PARAMS",
+  "responseResultType": "Object",
+  "responseResultData": {
+    "responseResultDataType": "Object",
+    "description": ""
+  },
+  "moduleConfigPath": "order/orderCommon.json"
+}

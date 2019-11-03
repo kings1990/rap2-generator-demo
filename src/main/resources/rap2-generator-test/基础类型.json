@@ -1,11 +1,5 @@
 {
-  "delosUrl": "http://rap2api.taobao.org",
-  "doloresUrl": "http://rap2.taobao.org",
-  "sid": "lvfoYyBsepZ3Ziq2IsvAlIvtCNYz3IkH",
-  "sig": "gHlWKnOcegxAVsYQG7i6rVkk4iI",
-  "repositoryId":235211,
   "interfaceId": 1349712,
-  "packageName": "io.github.kings1990.rap2.generator.test.model",
   "requestJavaClassname": "KingsQueryVo",
   "responseJavaClassname": "",
   "bodyOption": "FORM_DATA",
@@ -14,5 +8,6 @@
   "responseResultData": {
     "responseResultDataType": "String",
     "description": "customerCode集合"
-  }
+  },
+  "moduleConfigPath": "/rap2-generator-test/testCommon.json"
 }

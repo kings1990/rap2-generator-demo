@@ -1,9 +1,9 @@
 package io.github.kings1990.rap2.generator.test;
 
 
-import com.kings.rap.config.ParseConfig;
-import com.kings.rap.core.Rap2Generator;
-import com.kings.rap.util.ParseConfigJsonUtil;
+import io.github.kings1990.rap2.generator.config.ParseConfig;
+import io.github.kings1990.rap2.generator.core.Rap2Generator;
+import io.github.kings1990.rap2.generator.util.ParseConfigJsonUtil;
 import org.junit.Test;
 
 public class TestRap2Generator {

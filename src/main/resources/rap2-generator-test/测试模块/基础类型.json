@@ -9,5 +9,5 @@
     "responseResultDataType": "String",
     "description": "customerCode集合"
   },
-  "moduleConfigPath": "/rap2-generator-test/testCommon.json"
+  "moduleConfigPath": "/rap2-generator-test/测试模块/testCommon.json"
 }

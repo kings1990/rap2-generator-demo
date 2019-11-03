@@ -1,7 +1,7 @@
 {
-  "interfaceId": 1349713,
-  "requestJavaClassname": "MyQueryVo",
-  "responseJavaClassname": "KingsBankCard",
+  "interfaceId": 1349711,
+  "requestJavaClassname": "KingsQueryVo",
+  "responseJavaClassname": "ModelWithAuthor",
   "bodyOption": "FORM_DATA",
   "requestParamsType": "QUERY_PARAMS",
   "responseResultType": "Array",
@@ -9,5 +9,5 @@
     "responseResultDataType": "Object",
     "description": ""
   },
-  "moduleConfigPath": "/rap2-generator-test/testCommon.json"
+  "moduleConfigPath": "/rap2-generator-test/测试模块/testCommon.json"
 }

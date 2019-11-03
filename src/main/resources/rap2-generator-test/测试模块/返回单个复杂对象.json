@@ -1,13 +1,13 @@
 {
-  "interfaceId": 1349715,
+  "interfaceId": 1349784,
   "requestJavaClassname": "KingsQueryVo",
-  "responseJavaClassname": "KingsHobby",
+  "responseJavaClassname": "KingsVo",
   "bodyOption": "FORM_DATA",
   "requestParamsType": "QUERY_PARAMS",
-  "responseResultType": "Array",
+  "responseResultType": "Object",
   "responseResultData": {
     "responseResultDataType": "Object",
     "description": ""
   },
-  "moduleConfigPath": "/rap2-generator-test/testCommon.json"
+  "moduleConfigPath": "/rap2-generator-test/测试模块/testCommon.json"
 }

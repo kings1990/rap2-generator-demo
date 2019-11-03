@@ -1,13 +1,13 @@
 {
-  "interfaceId": 1349709,
-  "requestJavaClassname": "KingsBankCard",
+  "interfaceId": 1352831,
+  "requestJavaClassname": "Order",
   "responseJavaClassname": "",
   "bodyOption": "FORM_DATA",
   "requestParamsType": "BODY_PARAMS",
   "responseResultType": "Number",
   "responseResultData": {
     "responseResultDataType": "Number",
-    "description": "[1-保存成功 0-保存失败]"
+    "description": "[1-新建成功 0-新建失败]"
   },
-  "moduleConfigPath": "/rap2-generator-test/testCommon.json"
+  "moduleConfigPath": "/订单/订单模块/orderCommon.json"
 }

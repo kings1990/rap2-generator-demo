@@ -1,0 +1,13 @@
+{
+  "interfaceId": 1367733,
+  "requestJavaClassname": "",
+  "responseJavaClassname": "KingsBankCard",
+  "bodyOption": "FORM_DATA",
+  "requestParamsType": "QUERY_PARAMS",
+  "responseResultType": "Array",
+  "responseResultData": {
+    "responseResultDataType": "Object",
+    "description": ""
+  },
+  "moduleConfigPath": "/rap2-generator-test/测试模块/testCommon.json"
+}

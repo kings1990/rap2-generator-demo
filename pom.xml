@@ -6,7 +6,7 @@
 
     <groupId>com.kings</groupId>
     <artifactId>rap2-generator-demo</artifactId>
-    <version>1.0.4-RELEASE</version>
+    <version>1.0.5-RELEASE</version>
 
     <dependencies>
         <dependency>

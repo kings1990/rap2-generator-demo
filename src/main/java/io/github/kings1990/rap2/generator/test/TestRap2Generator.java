@@ -87,6 +87,14 @@ public class TestRap2Generator {
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
     }
+
+    @Test
+    public void testAnno() throws Exception {
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/测试模块/兼容注释.json");
+        Rap2Generator rap2Generator = new Rap2Generator();
+        rap2Generator.setParseConfig(parseConfig);
+        rap2Generator.generate();
+    }
     
 }
 

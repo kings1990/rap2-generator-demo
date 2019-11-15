@@ -1,0 +1,13 @@
+{
+  "interfaceId": 1367966,
+  "requestJavaClassname": "",
+  "responseJavaClassname": "AnnoVo",
+  "bodyOption": "FORM_DATA",
+  "requestParamsType": "QUERY_PARAMS",
+  "responseResultType": "Object",
+  "responseResultData": {
+    "responseResultDataType": "Object",
+    "description": ""
+  },
+  "moduleConfigPath": "/rap2-generator-test/测试模块/testCommon.json"
+}

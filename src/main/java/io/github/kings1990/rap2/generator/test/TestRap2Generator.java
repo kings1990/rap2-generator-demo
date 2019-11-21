@@ -95,6 +95,22 @@ public class TestRap2Generator {
         rap2Generator.setParseConfig(parseConfig);
         rap2Generator.generate();
     }
+
+    @Test
+    public void testAnnoPropertyUnMatch() throws Exception {
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/测试模块/注释和字段检测.json");
+        Rap2Generator rap2Generator = new Rap2Generator();
+        rap2Generator.setParseConfig(parseConfig);
+        rap2Generator.generate();
+    }
+
+    @Test
+    public void testExtend() throws Exception {
+        ParseConfig parseConfig = ParseConfigJsonUtil.parseByJsonFile("rap2-generator-test/测试模块/继承.json");
+        Rap2Generator rap2Generator = new Rap2Generator();
+        rap2Generator.setParseConfig(parseConfig);
+        rap2Generator.generate();
+    }
     
 }
 

@@ -1,7 +1,7 @@
 {
-  "interfaceId": 1349710,
+  "interfaceId": 1401448,
   "requestJavaClassname": "KingsQueryVo",
-  "responseJavaClassname": "KingsBankCard",
+  "responseJavaClassname": "KingsHobby",
   "bodyOption": "FORM_DATA",
   "requestParamsType": "QUERY_PARAMS",
   "responseResultType": "Array",

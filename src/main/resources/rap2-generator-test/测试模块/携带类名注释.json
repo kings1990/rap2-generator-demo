@@ -1,5 +1,5 @@
 {
-  "interfaceId": 1349711,
+  "interfaceId": 1401449,
   "requestJavaClassname": "KingsQueryVo",
   "responseJavaClassname": "ModelWithAuthor",
   "bodyOption": "FORM_DATA",

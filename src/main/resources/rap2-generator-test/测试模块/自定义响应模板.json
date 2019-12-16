@@ -1,5 +1,5 @@
 {
-  "interfaceId": 1349715,
+  "interfaceId": 1401458,
   "requestJavaClassname": "KingsQueryVo",
   "responseJavaClassname": "KingsHobby",
   "bodyOption": "FORM_DATA",

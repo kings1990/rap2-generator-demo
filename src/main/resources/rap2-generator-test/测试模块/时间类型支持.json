@@ -1,5 +1,5 @@
 {
-  "interfaceId": 1352346,
+  "interfaceId": 1401454,
   "requestJavaClassname": "TimeQueryVo",
   "responseJavaClassname": "DateVo",
   "bodyOption": "FORM_DATA",

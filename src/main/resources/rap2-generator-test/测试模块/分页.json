@@ -1,5 +1,5 @@
 {
-  "interfaceId": 1349714,
+  "interfaceId": 1401452,
   "requestJavaClassname": "KingsQueryVo",
   "responseJavaClassname": "PaginationKingsVo",
   "bodyOption": "FORM_DATA",
